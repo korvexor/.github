@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/korvexor/.github/main/profile/logo.png" width="120" />
+<img src="https://raw.githubusercontent.com/korvexor/.github/main/profile/korvexor.png" width="120" />
 
 # KORVEXOR
 
