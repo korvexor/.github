@@ -87,8 +87,8 @@ Your Application
  │ Gemini        │
  │ Local Models  │
  └───────────────┘
-
-💰 Cost Optimization
+---
+## 💰 Cost Optimization
 
 通过智能调度降低 AI 使用成本：
 
