@@ -87,3 +87,12 @@ Your Application
  │ Gemini        │
  │ Local Models  │
  └───────────────┘
+
+💰 Cost Optimization
+
+通过智能调度降低 AI 使用成本：
+
+模型自动降级
+Token 优化
+Cache 加速
+Failover 机制
